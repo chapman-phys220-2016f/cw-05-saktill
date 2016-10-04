@@ -2,7 +2,7 @@
 
 **Author(s):** _\<your name(s)\>_
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-05-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-05-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-05-saktill.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-05-saktill)
 
 **Due date:** 2016/10/04
 
@@ -24,7 +24,7 @@ Pro-tip: using git to manage conflicts on Jupyter notebooks is a pain. I recomme
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+This assignment was great because it really forced us to address the issues that come with using a computer for problems that seem trivial to solve on paper. Also, the pocket labs are way too much fun. However, the fact that the integrated data was clearly very wrong is irksome to say the least, and I'm desperately hoping that that's my error, not just a fact of life in scientific computing. Also, I think it would have been much easier had our data been much better, so I'm sure there's a lesson to be learned there somewhere. 
 
 ## Honor Pledge
 
@@ -35,4 +35,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Will, Sakthi

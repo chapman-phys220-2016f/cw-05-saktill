@@ -1,6 +1,6 @@
 # PHYS220 CW 5
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** _\<Will and Sakthi\>_
 
 [![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-05-saktill.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-05-saktill)
 

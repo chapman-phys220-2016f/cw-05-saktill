@@ -20,3 +20,5 @@ def zero(fx,x0,xf):
 	avg = np.sum(fx[x0:xf])/float(xf-x0)
 	fxZero = fx - avg
 	return fxZero
+
+	
